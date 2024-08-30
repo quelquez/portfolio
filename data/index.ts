@@ -174,7 +174,7 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Unity developer Intern",
+      title: "Intern Unity developer",
       desc: "Developed mobile app for iOS & Android using Unity's AR-module.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
@@ -188,14 +188,14 @@ export const navItems = [
     },
     {
       id: 3,
-      title: "Freelance Artist",
+      title: "Freelance artist",
       desc: "Offered freelance illustration services to clients from around the world.",
       className: "md:col-span-2",
       thumbnail: "/exp3.svg",
     },
     {
       id: 4,
-      title: "Frontend Developer Intern",
+      title: "Intern Frontend developer",
       desc: "Looking for an opprtunity to be a intern/junior frontend developer.",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",

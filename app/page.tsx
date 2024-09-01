@@ -1,5 +1,6 @@
 import Clients from "@/components/Clients";
 import Experience from "@/components/Experience";
+import Footer from "@/components/Footer";
 import Grid from "@/components/Grid";
 import Hero from "@/components/Hero";
 import Progress from "@/components/Progress";
@@ -18,6 +19,7 @@ export default function Home() {
         {/* <Clients /> */}
         <Experience />
         <Progress />
+        <Footer />
       </div>
     </main>
   );

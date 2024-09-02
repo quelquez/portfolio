@@ -1,7 +1,7 @@
 export const navItems = [
     { name: "About", link: "#about" },
     { name: "Projects", link: "#projects" },
-    // { name: "Testimonials", link: "#testimonials" },
+    { name: "Testimonials", link: "#testimonials" },
     { name: "Experience", link: "#experience" },
     { name: "Contact", link: "#contact" },
   ];
@@ -73,102 +73,102 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "Project 1 | Dev Portfolio (WIP)",
-      des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-      img: "/p1.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "https://github.com/quelquez/portfolio",
+      title: "Project 1 | Portfolio",
+      des: "Developer Portfolio with Next JS and Framer Motion",
+      img: "/p0.svg",
+      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
+      link: "https://mariastarostina.42web.io/",
     },
-    {
-      id: 2,
-      title: "Project 2 | WIP",
-      des: "Work in progress",
-      img: "/p2.svg",
-      iconLists: ["/ts.svg"],
-      link: "wip",
-    },
-    {
-      id: 3,
-      title: "Project3",
-      des: "",
-      img: "/p3.svg",
-      iconLists: [""],
-      link: "",
-    },
-    {
-      id: 4,
-      title: "Project4",
-      des: "",
-      img: "/p4.svg",
-      iconLists: [""],
-      link: "",
-    },
+    // {
+    //   id: 2,
+    //   title: "Project 2 | WIP",
+    //   des: "Work in progress",
+    //   img: "/p2.svg",
+    //   iconLists: ["/ts.svg"],
+    //   link: "Stay tuned~",
+    // },
+    // {
+    //   id: 3,
+    //   title: "Project3",
+    //   des: "",
+    //   img: "/p3.svg",
+    //   iconLists: [""],
+    //   link: "",
+    // },
+    // {
+    //   id: 4,
+    //   title: "Project4",
+    //   des: "",
+    //   img: "/p4.svg",
+    //   iconLists: [""],
+    //   link: "",
+    // },
   ];
   
   export const testimonials = [
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+        "The client reviews block will be displayed here.",
       name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      title: "Director of ExampleCompany1 Technologies",
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Feedback from the client will be displayed here.",
+      name: "Rei Ayanami",
+      title: "Director of ExampleCompany2 Technologies",
     },
     {
         quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+        "The client reviews block will be displayed here.",
       name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+      title: "Director of ExampleCompany3 Technologies",
     },
-    {
-      quote:
-        "",
-      name: "",
-      title: "",
-    },
-    {
-      quote:
-        "",
-      name: "",
-      title: "",
-    },
+    // {
+    //   quote:
+    //     "",
+    //   name: "",
+    //   title: "",
+    // },
+    // {
+    //   quote:
+    //     "",
+    //   name: "",
+    //   title: "",
+    // },
   ];
   
   export const companies = [
     {
       id: 1,
-      name: "ExampleCompany",
-      img: "link.svg",
-      nameImg: "arrow.svg",
+      name: "ExampleCompany1",
+      img: "host.svg",
+      nameImg: "hostName.svg",
     },
     {
       id: 2,
-      name: "",
-      img: "",
-      nameImg: "",
+      name: "ExampleCompany2",
+      img: "cloud.svg",
+      nameImg: "cloudName.svg",
     },
     {
       id: 3,
-      name: "",
-      img: "",
-      nameImg: "",
+      name: "ExampleCompany3",
+      img: "dock.svg",
+      nameImg: "dockerName.svg",
     },
-    {
-      id: 4,
-      name: "",
-      img: "",
-      nameImg: "",
-    },
-    {
-      id: 5,
-      name: "",
-      img: "",
-      nameImg: "",
-    },
+    // {
+    //   id: 4,
+    //   name: "",
+    //   img: "",
+    //   nameImg: "",
+    // },
+    // {
+    //   id: 5,
+    //   name: "",
+    //   img: "",
+    //   nameImg: "",
+    // },
   ];
   
   export const workExperience = [

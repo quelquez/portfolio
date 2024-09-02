@@ -8,6 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: "Maria Starostina | Portfolio",
   description: "Minimalistic portfolio",
+  icons: "exp1.svg"
 };
 
 export default function RootLayout({

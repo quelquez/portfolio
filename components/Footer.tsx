@@ -33,8 +33,8 @@ const Footer = () => {
       </div>
       <div className="flex mt-16 md:flex-row flex-col justify-between items-center">
         <p className="md:text-base text-sm md:font-normal font-light">
-          Maria 2024
-          <br /> Powered by InfinityFree
+          Maria | 2024
+          <br /> Powered by <img src="infinity.svg" />
         </p>
         <div className="flex items-center md:gap-3 gap-6 mt-6 md:mt-0">
           {socialMedia.map((profile) => (

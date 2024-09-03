@@ -174,6 +174,7 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
+      date: "June 2021 — October 2021",
       title: "Intern Unity developer",
       desc: "Developed mobile AR-app for iOS & Android using Unity's AR Foundation.",
       className: "md:col-span-2",
@@ -181,6 +182,7 @@ export const navItems = [
     },
     {
       id: 2,
+      date: "July 2022 — April 2024",
       title: "Junior+ Unity developer",
       desc: "Developed VR-app from prototype to deployment on app stores.",
       className: "md:col-span-2",
@@ -188,6 +190,7 @@ export const navItems = [
     },
     {
       id: 3,
+      date: "November 2021 — June 2022",
       title: "Freelance artist",
       desc: "Offered freelance illustration services to clients from around the world.",
       className: "md:col-span-2",
@@ -195,6 +198,7 @@ export const navItems = [
     },
     {
       id: 4,
+      date: "June 2024 - present",
       title: "Intern Frontend developer",
       desc: "Looking for an opprtunity to be a intern/junior frontend developer.",
       className: "md:col-span-2",

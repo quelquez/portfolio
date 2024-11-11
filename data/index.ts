@@ -74,19 +74,19 @@ export const navItems = [
     {
       id: 1,
       title: "Project 1 | Portfolio",
-      des: "Developer Portfolio with Next JS and Framer Motion",
+      des: "Developer Portfolio with Next.js and Framer Motion",
       img: "/p0.svg",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/fm.svg"],
       link: "https://mariastarostina.42web.io/",
     },
-    // {
-    //   id: 2,
-    //   title: "Project 2 | WIP",
-    //   des: "Work in progress",
-    //   img: "/p2.svg",
-    //   iconLists: ["/ts.svg"],
-    //   link: "Stay tuned~",
-    // },
+    {
+      id: 2,
+      title: "Project 2 | Blog",
+      des: "Blog with Next.js, Vercel and Kinde",
+      img: "/p2.svg",
+      iconLists: ["/next.svg", "/ts.svg", "/tail.svg",],
+      link: "https://nextjs-blog-mariastarostina.vercel.app/",
+    },
     // {
     //   id: 3,
     //   title: "Project3",
@@ -183,7 +183,7 @@ export const navItems = [
     {
       id: 2,
       date: "July 2022 — April 2024",
-      title: "Junior+ Unity developer",
+      title: "Unity developer",
       desc: "Developed VR-app from prototype to deployment on app stores.",
       className: "md:col-span-2",
       thumbnail: "/exp2.svg",

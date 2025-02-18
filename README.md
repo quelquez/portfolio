@@ -1,5 +1,5 @@
 # 📋 Next.js Dev Portfolio
-Built with Next.js for handling the user interface, Three.js for rendering 3D elements, Framer motion for animations, and styled with TailwindCSS.
+Built with Next.js for handling the user interface, Three.js for rendering 3D elements, Framer motion for animations, Sentry for monitoring and styled with TailwindCSS. 
 
 # 🔗 Links
 [![p0](https://github.com/user-attachments/assets/3fd7df59-5916-4a96-9481-31164295a6b1)](https://mariastarostina.42web.io/)
